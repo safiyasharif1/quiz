@@ -34,5 +34,5 @@ highScores.splice(5);
 console.log(highScores);
 
 localStorage.setItem("highScores", JSON.stringify(highScores));
-window.location.assign("/")
+window.location.assign("https://safiyasharif1.github.io/quiz/end.html")
 }
