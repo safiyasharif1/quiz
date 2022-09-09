@@ -1,5 +1,5 @@
 :root{
-    background-color: rgb(128, 192, 192);
+    background-color:  rgb(218, 172, 255);  
     font-size: 63%;
 }
 
@@ -79,11 +79,11 @@ h3{
 /*BUTTONS*/
 .btn{
     font-size: 1.8rem;
-    padding: 1rem 0;
+    padding: 2rem 0;
     width:30rem;
     text-align: center;
-    border: 0.1rem solid chocolate;
-    margin-bottom: 1rem;
+    border: 0.2rem solid rgb(246, 246, 246);
+    margin-bottom: 1.5rem;
     text-decoration: none;
     color: blueviolet;
     background-color: aliceblue;    
@@ -117,7 +117,7 @@ input {
     padding: 1.5rem;
     font: size 1.8rem;
     border: none;
-    box-shadow: rgb(247, 11, 247);
+    box-shadow:  rgb(218, 172, 255); 
 }
 
 input::placeholder{
